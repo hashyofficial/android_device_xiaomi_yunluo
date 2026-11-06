@@ -300,7 +300,8 @@ PRODUCT_SOONG_NAMESPACES += \
     hardware/mediatek/libmtkperf_client \
     hardware/xiaomi \
     hardware/google/interfaces \
-    hardware/google/pixel
+    hardware/google/pixel \
+    hardware/google/pixel/power-libperfmgr
 
 # Shipping API Level
 PRODUCT_SHIPPING_API_LEVEL := 31
